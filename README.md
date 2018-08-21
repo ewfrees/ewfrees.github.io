@@ -10,7 +10,7 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 * The online text will be available in multiple languages to promote access to a worldwide audience.
 
 To see our progress, a draft of the book is available at 
-* [Online Version](https://github.com/ewfrees/Loss-Data-Analytics/blob/master/docs/index.html) 
+* [Online Version](https://ewfrees.github.io/Loss-Data-Analytics/index.html) 
 * [pdf version](https://github.com/ewfrees/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.pdf)
 * [EPUB version](https://github.com/ewfrees/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.epub)
 
