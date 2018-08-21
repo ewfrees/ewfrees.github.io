@@ -28,12 +28,12 @@ Source code is available at our [GitHub site](https://github.com/OpenActTexts/LD
 
 # Overheads for Loss Data Analytics
 
-This site provides chapter summaries in the form of overheads to support the online text **Loss Data Analytics**. Overheads in .pdf format and source code is available at our [GitHub site](https://github.com/ewfrees/LossDataAnalyticsOverheads).
+This site provides chapter summaries in the form of overheads to support the online text **Loss Data Analytics**. Overheads in .pdf format and source code is available at a development [GitHub site](https://github.com/ewfrees/LossDataAnalyticsOverheads).
 
 
 # Life Contingencies / Actuarial Mathematics
 
-We are also starting to organize several sets of notes for *Life Contingencies*, also known as *Actuarial Mathematics* and *Long Term Actuarial Mathematics*. See our [GitHub Site](https://github.com/ewfrees/LifeCon).
+We are also starting to organize several sets of notes for *Life Contingencies*, also known as *Actuarial Mathematics* and *Long Term Actuarial Mathematics*. See the development [GitHub Site](https://github.com/ewfrees/LifeCon).
 
 ## Your Help
 As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. Especially at this early stage of the project, if you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>.
