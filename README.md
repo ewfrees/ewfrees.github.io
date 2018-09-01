@@ -2,6 +2,10 @@
 ## Open Actuarial Textbooks Project Goal
 The goal is to have the actuarial community author our textbooks in a collaborative fashion. *GitHub* provides a natural development environment to achieve this goal. See the [Open Actuarial Textbooks Project Site](https://sites.google.com/a/wisc.edu/loss-data-analytics/) for more information about this project.
 
+# Development Site
+
+This is the landing page where you can access recent developments in the *Loss Data Analytics* texts. A more stable version, that is being updated less frequently, is available at our 'production' [Open Actuarial Textbooks Landing Site](https://openacttexts.github.io/). Even if you are not familiar with *Github*, you can always access old pdf versions of the text in our [Offline versions of the text](https://github.com/OpenActTexts/Loss-Data-Analytics/tree/master/Offline).
+
 # Loss Data Analytics
 
 **Book Description** - *Loss Data Analytics* will be an interactive, online, freely available text.
@@ -10,11 +14,11 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 * The online text will be available in multiple languages to promote access to a worldwide audience.
 
 To see our progress, a draft of the book is available at 
-* [Online Version](https://openacttexts.github.io/Loss-Data-Analytics/index.html) 
-* [pdf version](https://github.com/OpenActTexts/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.pdf)
-* [EPUB version](https://github.com/OpenActTexts/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.epub)
+* [Online Version](https://ewfrees.github.io/Loss-Data-Analytics/index.html) 
+* [pdf version](https://github.com/ewfrees/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.pdf)
+* [EPUB version](https://github.com/ewfrees/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.epub)
 
-Source code is available at our [GitHub site](https://github.com/OpenActTexts/Loss-Data-Analytics).
+Source code is available at our [GitHub site](https://github.com/ewfrees/Loss-Data-Analytics).
 
 Prospective contributors should also check out our [Style Guide](https://openacttexts.github.io/StyleGuideLDA/index.html) 
 
@@ -22,9 +26,9 @@ We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfree
 
 # R Codes for Loss Data Analytics
 
-This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. To get an idea of what the files will generate for users, see the [Online Version from R Code Support](https://openacttexts.github.io/LDARcode)
+This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. To get an idea of what the files will generate for users, see the [Online Version from R Code Support](https://ewfrees.github.io/LDARcode/index.html).
 
-Source code is available at our [GitHub site](https://github.com/OpenActTexts/LDARCode).
+Source code is available at our [GitHub site](https://github.com/ewfrees/LDARCode).
 
 # Overheads for Loss Data Analytics
 
