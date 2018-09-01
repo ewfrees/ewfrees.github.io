@@ -20,7 +20,7 @@ To see our progress, a draft of the book is available at
 
 Source code is available at our [GitHub site](https://github.com/ewfrees/Loss-Data-Analytics).
 
-Prospective contributors should also check out our [Style Guide](https://openacttexts.github.io/StyleGuideLDA/index.html) 
+Prospective contributors should also check out our [Style Guide](https://ewfrees.github.io/StyleGuideLDA/index.html) 
 
 We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfrees/loss-data-analytics/).
 
