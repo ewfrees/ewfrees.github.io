@@ -4,7 +4,7 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 
 # Development Site
 
-This is the landing page where you can access recent developments in the *Loss Data Analytics* texts. A more stable version, that is being updated less frequently, is available at our 'production' [Open Actuarial Textbooks Landing Site](https://ewfrees.github.io/). Even if you are not familiar with *Github*, you can always access old pdf versions of the text in our [Offline versions of the text](https://github.com/OpenActTexts/Loss-Data-Analytics/tree/master/Offline).
+This is the landing page where you can access recent developments in the *Loss Data Analytics* texts. A more stable version, that is being updated less frequently, is available at our 'production' [Open Actuarial Textbooks Landing Site](https://openacttexts.github.io/). You can also access old pdf versions of the text in our [Offline versions of the text](https://github.com/OpenActTexts/Loss-Data-Analytics/tree/master/Offline).
 
 # Loss Data Analytics
 
@@ -34,10 +34,14 @@ Source code is available at our [GitHub site](https://github.com/ewfrees/LDARCod
 
 This site provides chapter summaries in the form of overheads to support the online text **Loss Data Analytics**. Overheads in .pdf format and source code is available at a development [GitHub site](https://github.com/ewfrees/LossDataAnalyticsOverheads).
 
+# Translation Demonstration
+
+* Here is a [version of the book](https://alyaanuval.github.io/LDATranslate/C-Intro.html#S:Intro) where we translated a section from English to Malay. 
+* The instructions for doing the translation are at a [repository on GitHub](https://github.com/alyaanuval/LDATranslate). 
 
 # Life Contingencies / Actuarial Mathematics
 
-We are also starting to organize several sets of notes for *Life Contingencies*, also known as *Actuarial Mathematics* and *Long Term Actuarial Mathematics*. See the development [GitHub Site](https://github.com/ewfrees/LifeCon).
+The initial focus of the project is on *Loss Data Analytics* although we hope to expand to other actuarial texts. In that spirit, we organize several sets of notes for *Life Contingencies*, also known as *Actuarial Mathematics* and *Long Term Actuarial Mathematics*. See the development [GitHub Site](https://github.com/ewfrees/LifeCon).
 
 ## Your Help
 As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. Especially at this early stage of the project, if you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>.
