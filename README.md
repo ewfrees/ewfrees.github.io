@@ -30,7 +30,7 @@ This site provides files that generate *R* codes to support the online text **Lo
 
 Source code is available at our [GitHub site](https://github.com/ewfrees/LDARCode).
 
-## Interactive Features of Loss Data Analytics
+# Interactive Features of Loss Data Analytics
 
 [This repository](https://ewfrees.github.io/InteractiveLDA/index.html) describes the interactive features being developed for *Loss Data Analytics*.
 
