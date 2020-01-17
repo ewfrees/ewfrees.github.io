@@ -13,10 +13,10 @@ This is the landing page where you can access recent developments in the *Loss D
 * A subset of the book will be available for offline reading in pdf and EPUB formats.
 * The online text will be available in multiple languages to promote access to a worldwide audience.
 
-To see our progress, a draft of the book is available at 
-* [Online Version](https://ewfrees.github.io/Loss-Data-Analytics/index.html) 
-* [pdf version](https://github.com/ewfrees/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.pdf)
-* [EPUB version](https://github.com/ewfrees/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.epub)
+The most recent version of the book is available at 
+* View the ([online version](https://ewfrees.github.io/Loss-Data-Analytics/index.html) in *.html* format - this is the **interactive** version.
+* Download a [pdf version](https://github.com/ewfrees/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.pdf)
+* Download a [EPUB version](https://github.com/ewfrees/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.epub)
 
 Source code is available at our [GitHub site](https://github.com/ewfrees/Loss-Data-Analytics).
 
