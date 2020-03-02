@@ -4,7 +4,7 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 
 # Development Site
 
-This is the landing page where you can access recent developments in the *Loss Data Analytics* texts. A more stable version, that is being updated less frequently, is available at our 'production' [Open Actuarial Textbooks Landing Site](https://openacttexts.github.io/). You can also access old pdf versions of the text in our [Offline versions of the text](https://github.com/OpenActTexts/Loss-Data-Analytics/tree/master/Offline).
+This is the landing page where you can access recent developments in the *Loss Data Analytics* texts. A more stable version, that is being updated less frequently, is available at our 'production' [Open Actuarial Textbooks Landing Site](https://openacttexts.github.io/). You can also access pdf and epub (current and older) versions of the text in our [Offline versions of the text](https://github.com/OpenActTexts/Loss-Data-Analytics/tree/master/Offline).
 
 # Loss Data Analytics
 
@@ -15,8 +15,6 @@ This is the landing page where you can access recent developments in the *Loss D
 
 The most recent version of the book is available at 
 * View the ([online version](https://ewfrees.github.io/Loss-Data-Analytics/index.html) in *.html* format - this is the **interactive** version.
-* Download a [pdf version](https://github.com/ewfrees/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.pdf)
-* Download a [EPUB version](https://github.com/ewfrees/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.epub)
 
 Source code is available at our [GitHub site](https://github.com/ewfrees/Loss-Data-Analytics).
 
