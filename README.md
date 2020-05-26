@@ -38,6 +38,7 @@ This site provides chapter summaries in the form of overheads to support the onl
 
 # Translation Demonstration
 
+*  Several chapters have been [translated into Spanish](https://ewfrees.github.io/Loss-Data-Analytics-Spanish/) and more are forthcoming.
 * Here is a [version of the book](https://alyaanuval.github.io/LDATranslate/C-Intro.html#S:Intro) where we translated a section from English to Malay. 
 * The instructions for doing the translation are at a [repository on GitHub](https://github.com/alyaanuval/LDATranslate). 
 
