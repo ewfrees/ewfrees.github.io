@@ -2,6 +2,8 @@
 ## Open Actuarial Textbooks Project Goal
 The goal is to have the actuarial community author our textbooks in a collaborative fashion. *GitHub* provides a natural development environment to achieve this goal. See the [Open Actuarial Textbooks Project Site](https://sites.google.com/a/wisc.edu/loss-data-analytics/) for more information about this project.
 
+This is an old version of the development site. See [Open Actuarial Textbooks Project:Development Site](https://openacttextdev.github.io) for a current version.
+
 # Development Site
 
 This is the landing page where you can access recent developments in the *Loss Data Analytics* texts. A more stable version, that is being updated less frequently, is available at our 'production' [Open Actuarial Textbooks Landing Site](https://openacttexts.github.io/). You can also access pdf and epub (current and older) versions of the text in our [Offline versions of the text](https://ewfrees.github.io/Loss-Data-Analytics/DownloadOffline.html).
